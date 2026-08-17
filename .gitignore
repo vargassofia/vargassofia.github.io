@@ -1,0 +1,20 @@
+# Archivos de sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Configuraciones de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Node.js (Solo por si en el futuro decides añadir alguna herramienta o framework)
+node_modules/
+npm-debug.log
+
+# Archivos temporales y de registro generales
+*.log
+*.tmp
+*.bak
